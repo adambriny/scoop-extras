@@ -1,20 +1,20 @@
 {
-    "version": "7.1.2",
+    "version": "7.2.0",
     "description": "All-in-one messaging apps for various services",
     "homepage": "https://ferdium.org/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-AutoSetup-7.1.2-x64.exe#/dl.7z",
-            "hash": "724a656c92d77d74650efd18fd60b1f11840bfe4531321b2bcd6cf27c9bc7865"
+            "url": "https://github.com/ferdium/ferdium-app/releases/download/v7.2.0/Ferdium-win-AutoSetup-7.2.0-x64.exe#/dl.7z",
+            "hash": "sha512:ccf59bdc7318bbcd51b3478c0857dcd20976c0b2de9f77d93faacde7346186cd34d594099fd4248dab2a09b2ceea45bf259fa6ebdf1987ab662f799e3a5435b9"
         },
         "32bit": {
-            "url": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-AutoSetup-7.1.2-ia32.exe#/dl.7z",
-            "hash": "8862ee7bc5668bbf43f9c15e1f04a7cd4f06e1ea0214aeb4ee1fbd46a8dee35b"
+            "url": "https://github.com/ferdium/ferdium-app/releases/download/v7.2.0/Ferdium-win-AutoSetup-7.2.0-ia32.exe#/dl.7z",
+            "hash": "sha512:ceb652285bb198dc5f511999bca3ef809e95c1e381afabaa37e67ccb5322b5872629e2ebafb940468800ff3a10319921538fe917da10838990040be0e8dd4607"
         },
         "arm64": {
-            "url": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-AutoSetup-7.1.2-arm64.exe#/dl.7z",
-            "hash": "d3289d41054b10cb51355571da44cc6093813e36706b8a0f9ae98459ab9d0a6b"
+            "url": "https://github.com/ferdium/ferdium-app/releases/download/v7.2.0/Ferdium-win-AutoSetup-7.2.0-arm64.exe#/dl.7z",
+            "hash": "sha512:e0702391462208e140ad1b974e123a36838b2ce839b4879989963d48949ef1b2b4f94424336c9ec72624812055b2edb6fc723294ac9d7ac44994cefaed9a70e8"
         }
     },
     "pre_install": [
